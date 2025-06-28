@@ -1197,3 +1197,5 @@ function formatDate(dateStr) {
     minute: '2-digit'
   }).replace(',', '');
 }
+
+// DEBUG: Last pushed on 2025-06-28 for Render deployment
